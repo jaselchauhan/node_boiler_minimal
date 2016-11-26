@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+span {
+  font-size: 0.5em;
+}
+
+canvas {
+  border: 1px solid black;
+  width: 800px;
+  height: 600px;
+}
+
+.button.button-outline {
+  color: #1fe0b0;
+  border-color: #1fe0b0;
+}

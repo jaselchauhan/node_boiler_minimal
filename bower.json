@@ -1,0 +1,23 @@
+{
+  "name": "jaselchauhan.com",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "jasel chauhan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "animate.css": "^3.5.2",
+    "jquery": "^3.1.1",
+    "milligram": "^1.2.0"
+  }
+}

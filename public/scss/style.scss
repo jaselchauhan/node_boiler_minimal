@@ -1,0 +1,28 @@
+$color1: #1fe0b0;
+$color2: #969191;
+$color_font: #606c76;
+$color_background: #ffffff;
+
+$span_font_size: 0.5em;
+
+
+h1{
+  text-align: center;
+}
+
+span{
+  font-size: $span_font_size;
+}
+
+
+canvas{
+  border:1px solid black;
+  width:800px;
+  height: 600px;
+}
+
+.button.button-outline{
+  color: $color1;
+  border-color: $color1;
+  
+}
